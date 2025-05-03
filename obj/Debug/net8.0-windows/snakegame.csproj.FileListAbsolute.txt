@@ -1,0 +1,16 @@
+C:\snakegame\obj\Debug\net8.0-windows\snakegame.Form1.resources
+C:\snakegame\obj\Debug\net8.0-windows\snakegame.csproj.GenerateResource.cache
+C:\snakegame\obj\Debug\net8.0-windows\snakegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\snakegame\obj\Debug\net8.0-windows\snakegame.AssemblyInfoInputs.cache
+C:\snakegame\obj\Debug\net8.0-windows\snakegame.AssemblyInfo.cs
+C:\snakegame\obj\Debug\net8.0-windows\snakegame.csproj.CoreCompileInputs.cache
+C:\snakegame\bin\Debug\net8.0-windows\snakegame.exe
+C:\snakegame\bin\Debug\net8.0-windows\snakegame.deps.json
+C:\snakegame\bin\Debug\net8.0-windows\snakegame.runtimeconfig.json
+C:\snakegame\bin\Debug\net8.0-windows\snakegame.dll
+C:\snakegame\bin\Debug\net8.0-windows\snakegame.pdb
+C:\snakegame\obj\Debug\net8.0-windows\snakegame.dll
+C:\snakegame\obj\Debug\net8.0-windows\refint\snakegame.dll
+C:\snakegame\obj\Debug\net8.0-windows\snakegame.pdb
+C:\snakegame\obj\Debug\net8.0-windows\snakegame.genruntimeconfig.cache
+C:\snakegame\obj\Debug\net8.0-windows\ref\snakegame.dll
